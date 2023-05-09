@@ -7,6 +7,8 @@
 Everyday learning new technologies to improve my projects and make my code cleaner.<p>
 
 - 🌱 I’m currently learning **React, NextJs**
+  
+-👨‍💻 Looking forward to specialize in Cybersecurity
 
 - 📫 How to reach me **themaximozevyt@gmail.com**
 
