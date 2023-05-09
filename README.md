@@ -5,10 +5,10 @@
 <p>I've been coding for one year, on my path I've been working on simple pages with React like landing pages.
 
 Everyday learning new technologies to improve my projects and make my code cleaner.<p>
+  
+- 👨‍💻 [Looking forward to specialize in Cybersecurity]
 
 - 🌱 I’m currently learning **React, NextJs**
-  
-- 👨‍💻 Looking forward to specialize in **Cybersecurity**
 
 - 📫 How to reach me **themaximozevyt@gmail.com**
 
