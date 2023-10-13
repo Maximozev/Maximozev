@@ -1,7 +1,7 @@
 [![MasterHead](https://giffiles.alphacoders.com/174/1744.gif)]()
 <h1 align="center">Hi 👋, I'm Max Enriquez</h1>
 <h3 align="center">Junior Front-End developer</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/df/4f/8cdf4fb077b089c4293f295361607cd0.gif">
 <p>I've been coding for one year, on my path I've been working on simple pages with React like landing pages.
 
 Everyday learning new technologies to improve my projects and make my code cleaner.<p>
