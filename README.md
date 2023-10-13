@@ -8,7 +8,7 @@ Everyday learning new technologies to improve my projects and make my code clean
   
 - 👨‍💻 [Looking forward to specialize in Cybersecurity]
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **themaximozevyt@gmail.com**
 
